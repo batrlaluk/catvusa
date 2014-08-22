@@ -5,6 +5,7 @@
 		"short_description": "Exploring Czech Lands:   Town of Trebon...",
 		"name": "August 18, 2014",
 		"url": "http://catvusa.com/video/broadcast/542m.mp4",
+		"pic_url": "http://catvusa.com/wp-content/uploads/2014/08/trebon_.jpg",
 		"description": "Exploring Czech Lands:   Town of Trebon is a historical town in South Bohemian Region. Trebon was established around the middle of the 12th century. In 1366, the House of Rozmberk became owner of the estate.  Now is a tourist destination, and this is the area’s major economic activity, along with agriculture, spa industry, and other services.",
 		"link": "http://catvusa.com/broadcast/august-18-2014/"
 	},
@@ -13,6 +14,7 @@
 		"short_description": "Exploring Czech Lands: Town of Mlada...",
 		"name": "August 11, 2014",
 		"url": "http://catvusa.com/video/broadcast/541m.mp4",
+		"pic_url": "http://catvusa.com/wp-content/uploads/2014/08/mlada.boleslav.region.jpg",
 		"description": "Exploring Czech Lands: Town of Mlada Boleslav and Surroundings is famous not only for being an automobile region, but it is also an excellent holiday destination. This Region offers plenty of opportunities and attractions for those who like to enjoy active holidays as well as for those who love culture and historical places.",
 		"link": "http://catvusa.com/broadcast/august-11-2014/"
 	},
@@ -21,6 +23,7 @@
 		"short_description": "Discovery Czech Lands: Town of Broumov...",
 		"name": "August 4, 2014",
 		"url": "http://catvusa.com/video/broadcast/540m.mp4",
+		"pic_url": "http://catvusa.com/wp-content/uploads/2014/08/town_broumov-1.jpg",
 		"description": "Discovery Czech Lands: Town of Broumov and Broumovsko Region. Broumov was first mentioned as a town in 1256. The Premysl king Ottokar I of Bohemia had granted the remote area around Police to the Benedictine monks of Brevnov Abbey in Prague, who began to colonize the lands in 1213. The town was the administrative centre of the abbey’s manors, its privileges were confirmed by King Charles IV in 1348.",
 		"link": "http://catvusa.com/broadcast/august-4-2014/"
 	},
@@ -29,6 +32,7 @@
 		"short_description": "Exploring Czech Lands: Town of Tabor...",
 		"name": "July 28, 2014",
 		"url": "http://catvusa.com/video/broadcast/539m.mp4",
+		"pic_url": "http://catvusa.com/wp-content/uploads/2014/08/tabor_town.jpg",
 		"description": "Exploring Czech Lands: Town of Tabor Discovery Czech Regions: Revolving Theater - Cesky Krumlov - Southern Bohemia Czech Class: Letter P Czech Kitchen: Fruit",
 		"link": "http://catvusa.com/broadcast/july-28-2014/"
 	},
@@ -37,6 +41,7 @@
 		"short_description": "Exploring Czech Lands: Town of Decin...",
 		"name": "July 21, 2014",
 		"url": "http://catvusa.com/video/broadcast/538m.mp4",
+		"pic_url": "http://catvusa.com/wp-content/uploads/2014/07/decin_mesto.jpg",
 		"description": "Exploring Czech Lands: Town of Decin From Our Archives: Report from Bohemian Paradise Czech Song for You: This time with Maxim Turbulenc",
 		"link": "http://catvusa.com/broadcast/july-21-2014/"
 	},
@@ -45,6 +50,7 @@
 		"short_description": "Exploring Czech Lands: Region Slovacko...",
 		"name": "July 14, 2014",
 		"url": "http://catvusa.com/video/broadcast/537m.mp4",
+		"pic_url": "http://catvusa.com/wp-content/uploads/2014/07/slovacko_region.jpg",
 		"description": "Exploring Czech Lands: Region Slovacko From our Archives: The Mikulcice-Kopcany Archaeological Park Czech Song for You: This time with Lanzhotcanka",
 		"link": "http://catvusa.com/broadcast/july-14-2014/"
 	},
@@ -53,6 +59,7 @@
 		"short_description": "Exploring Czech Lands: Bohemian Paradise...",
 		"name": "July 7, 2014",
 		"url": "http://catvusa.com/video/broadcast/536m.mp4",
+		"pic_url": "http://catvusa.com/wp-content/uploads/2014/07/_ceske_svycarsko__.jpg",
 		"description": "Exploring Czech Lands: Bohemian Paradise Czech Class: Letter O Czech Song for You: Babouci",
 		"link": "http://catvusa.com/broadcast/july-7-2014/"
 	},
@@ -61,6 +68,7 @@
 		"short_description": "Exploring Czech Lands: City of Hodonin...",
 		"name": "June 30, 2014",
 		"url": "http://catvusa.com/video/broadcast/535m.mp4",
+		"pic_url": "http://catvusa.com/wp-content/uploads/2014/07/city_hodonin.jpg",
 		"description": "Exploring Czech Lands: City of Hodonin Discovery Czech Regions: Moravsky Kras, Southern Moravia Czech Song for You: This time from Kyjov area Czech Class: Letter N",
 		"link": "http://catvusa.com/broadcast/june-30-2014/"
 	},
@@ -69,6 +77,7 @@
 		"short_description": "Exploring Czech Lands: Mohyla Miru...",
 		"name": "June 23, 2014",
 		"url": "http://catvusa.com/video/broadcast/534m.mp4",
+		"pic_url": "http://catvusa.com/wp-content/uploads/2014/07/brno_area_mohyla.miru.jpg",
 		"description": "Exploring Czech Lands: Mohyla Miru
 From Our Archives: Velorex  Meetup in city of Boskovice
 Czech Kitchen: Sauerkraut Soup With Smoked Sausage
@@ -80,6 +89,7 @@ Czech Song for You: This time with Maxim Turbulenc",
 		"short_description": "This Week’s Guest: Roman Inochovsky...",
 		"name": "June 16, 2014",
 		"url": "http://catvusa.com/video/broadcast/533m.mp4",
+		"pic_url": "http://catvusa.com/wp-content/uploads/2014/07/jm.zamky_hrady.jpg",
 		"description": "This Week’s Guest: Roman Inochovsky – Honorary Consul to the Czech Republic – Orlando, FL
 Exploring Czech Lands: Castles and Chateaux of South Moravia
 Czech Class: Personal Pronouns
@@ -88,10 +98,11 @@ Czech Song for You: This time from Kyjov Area",
 		"link": "http://catvusa.com/broadcast/june-16-2014/"
 	},
 	{
-		"id": "b2010",
+		"id": "b210",
 		"short_description": "Czech Class: Letter I...",
-		"name": "July 28, 2014",
+		"name": "June 9, 2014",
 		"url": "http://catvusa.com/video/broadcast/532m.mp4",
+		"pic_url": "http://catvusa.com/wp-content/uploads/2014/07/_uh_.jpg",
 		"description": "Czech Class: Letter I
 Czech Kitchen: Creamy Chicken Paprika
 Discovery Czech Lands: Czech Unesco Sights
