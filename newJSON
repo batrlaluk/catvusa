@@ -2,6 +2,7 @@
     "broadcast": [
 	{
 		"id": "b200",
+		"short_description": "Exploring Czech Lands:   Town of Trebon...",
 		"name": "August 18, 2014",
 		"url": "http://catvusa.com/video/broadcast/542m.mp4",
 		"description": "Exploring Czech Lands:   Town of Trebon is a historical town in South Bohemian Region. Trebon was established around the middle of the 12th century. In 1366, the House of Rozmberk became owner of the estate.  Now is a tourist destination, and this is the area’s major economic activity, along with agriculture, spa industry, and other services.",
@@ -9,6 +10,7 @@
 	},
 	{
 		"id": "b201",
+		"short_description": "Exploring Czech Lands: Town of Mlada...",
 		"name": "August 11, 2014",
 		"url": "http://catvusa.com/video/broadcast/541m.mp4",
 		"description": "Exploring Czech Lands: Town of Mlada Boleslav and Surroundings is famous not only for being an automobile region, but it is also an excellent holiday destination. This Region offers plenty of opportunities and attractions for those who like to enjoy active holidays as well as for those who love culture and historical places.",
@@ -16,6 +18,7 @@
 	},
 	{
 		"id": "b202",
+		"short_description": "Discovery Czech Lands: Town of Broumov...",
 		"name": "August 4, 2014",
 		"url": "http://catvusa.com/video/broadcast/540m.mp4",
 		"description": "Discovery Czech Lands: Town of Broumov and Broumovsko Region. Broumov was first mentioned as a town in 1256. The Premysl king Ottokar I of Bohemia had granted the remote area around Police to the Benedictine monks of Brevnov Abbey in Prague, who began to colonize the lands in 1213. The town was the administrative centre of the abbey’s manors, its privileges were confirmed by King Charles IV in 1348.",
@@ -23,6 +26,7 @@
 	},
 	{
 		"id": "b203",
+		"short_description": "Exploring Czech Lands: Town of Tabor...",
 		"name": "July 28, 2014",
 		"url": "http://catvusa.com/video/broadcast/539m.mp4",
 		"description": "Exploring Czech Lands: Town of Tabor Discovery Czech Regions: Revolving Theater - Cesky Krumlov - Southern Bohemia Czech Class: Letter P Czech Kitchen: Fruit",
@@ -30,6 +34,7 @@
 	},
 	{
 		"id": "b204",
+		"short_description": "Exploring Czech Lands: Town of Decin...",
 		"name": "July 21, 2014",
 		"url": "http://catvusa.com/video/broadcast/538m.mp4",
 		"description": "Exploring Czech Lands: Town of Decin From Our Archives: Report from Bohemian Paradise Czech Song for You: This time with Maxim Turbulenc",
@@ -37,6 +42,7 @@
 	},
 	{
 		"id": "b205",
+		"short_description": "Exploring Czech Lands: Region Slovacko...",
 		"name": "July 14, 2014",
 		"url": "http://catvusa.com/video/broadcast/537m.mp4",
 		"description": "Exploring Czech Lands: Region Slovacko From our Archives: The Mikulcice-Kopcany Archaeological Park Czech Song for You: This time with Lanzhotcanka",
@@ -44,6 +50,7 @@
 	},
 	{
 		"id": "b206",
+		"short_description": "Exploring Czech Lands: Bohemian Paradise...",
 		"name": "July 7, 2014",
 		"url": "http://catvusa.com/video/broadcast/536m.mp4",
 		"description": "Exploring Czech Lands: Bohemian Paradise Czech Class: Letter O Czech Song for You: Babouci",
@@ -51,6 +58,7 @@
 	},
 	{
 		"id": "b207",
+		"short_description": "Exploring Czech Lands: City of Hodonin...",
 		"name": "June 30, 2014",
 		"url": "http://catvusa.com/video/broadcast/535m.mp4",
 		"description": "Exploring Czech Lands: City of Hodonin Discovery Czech Regions: Moravsky Kras, Southern Moravia Czech Song for You: This time from Kyjov area Czech Class: Letter N",
@@ -58,6 +66,7 @@
 	},
 	{
 		"id": "b208",
+		"short_description": "Exploring Czech Lands: Mohyla Miru...",
 		"name": "June 23, 2014",
 		"url": "http://catvusa.com/video/broadcast/534m.mp4",
 		"description": "Exploring Czech Lands: Mohyla Miru
@@ -68,6 +77,7 @@ Czech Song for You: This time with Maxim Turbulenc",
 	},
 	{
 		"id": "b209",
+		"short_description": "This Week’s Guest: Roman Inochovsky...",
 		"name": "June 16, 2014",
 		"url": "http://catvusa.com/video/broadcast/533m.mp4",
 		"description": "This Week’s Guest: Roman Inochovsky – Honorary Consul to the Czech Republic – Orlando, FL
@@ -79,6 +89,7 @@ Czech Song for You: This time from Kyjov Area",
 	},
 	{
 		"id": "b2010",
+		"short_description": "Czech Class: Letter I...",
 		"name": "July 28, 2014",
 		"url": "http://catvusa.com/video/broadcast/532m.mp4",
 		"description": "Czech Class: Letter I
