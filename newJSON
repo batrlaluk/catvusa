@@ -4,7 +4,7 @@
 		"id": "h200",
 		"short_description": "Latest Broadcast",
 		"name": "August 25, 2014",
-		"url": "http://catvusa.com/video/broadcast/542m.mp4",
+		"url": "http://catvusa.com/video/broadcast/543m.mp4",
 		"pic_url": "http://catvusa.com/wp-content/uploads/2014/08/eastern__moravia.jpg",
 		"description": "Discovery Czech Regions:  Eastern Moravia  is a region of the Wallachian Mountains, Hana Flatlands, vineyards soaked in sunshine, original gastronomy and valuable architectural monuments.
 
@@ -21,6 +21,25 @@ Czech Song for You:  This time with Mistrinanka"
     ]
     ,
     "broadcast": [
+    	{
+		"id": "b199",
+		"short_description": "",
+		"name": "August 25, 2014",
+		"url": "http://catvusa.com/video/broadcast/543m.mp4",
+		"pic_url": "http://catvusa.com/wp-content/uploads/2014/08/eastern__moravia.jpg",
+		"description": "Discovery Czech Regions:  Eastern Moravia  is a region of the Wallachian Mountains, Hana Flatlands, vineyards soaked in sunshine, original gastronomy and valuable architectural monuments.
+
+Czech Tradition:  About Verbunk Dance - is danced by men in folk costumes accompanied by a cimbalo or brass band. It was originally the way recruits said goodbye when they were leaving to join the army, to prove that they were prepared for the demanding military service and also to impress the girls.
+
+Czech Lands:  Unesco sight in city of Kromeriz - stands on the site of an earlier ford across the River Morava, at the foot of the Chriby mountain range which dominates the central part of Moravia
+
+Czech Kitchen:  Small Fillet Doughnuts - Vdolecky.  This recipe is from Eastern Moravia.  Doughnuts are filled with plum jam and farmer cheese.
+
+Czech Class:  About Letter Q – Questions – Otazky
+
+Czech Song for You:  This time with Mistrinanka",
+		"link": "http://catvusa.com/broadcast/august-25-2014/"
+	},
 	{
 		"id": "b200",
 		"short_description": "Exploring Czech Lands:   Town of Trebon...",
