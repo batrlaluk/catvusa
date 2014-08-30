@@ -116,66 +116,52 @@ Czech Song for You: This time with Mistrinanka",
     "kitchen": [
 	{
 		"id": "c200",
-		"short_description": "",
 		"name": "Traditional Czech Bread Dumplings",
 		"url": "http://catvusa.com/video/kitchen/knedliky.mp4",
 		"pic_url": "http://catvusa.com/wp-content/uploads/2014/07/knedliky.jpg",
-		"description": "",
-		"link": ""
+		"description": ""
 	},
 	{
 		"id": "c201",
-		"short_description": "",
 		"name": "Sauerkraut Soup with Smoked Sausage",
 		"url": "http://catvusa.com/video/kitchen/zelnacka.soup.mp4",
 		"pic_url": "http://catvusa.com/wp-content/uploads/2014/07/zelnacka.jpg",
-		"description": "",
-		"link": ""
+		"description": ""
 	},
 	{
 		"id": "c202",
-		"short_description": "",
 		"name": "Dill sauce with boiled beef and eggs",
 		"url": "http://catvusa.com/video/kitchen/22.koprova.omacka.mp4",
 		"pic_url": "http://catvusa.com/wp-content/uploads/2014/07/koprova-300x168.jpg",
-		"description": "Dill sauce (Koprova omacka) – is also used in traditional Czech cuisine.",
-		"link": ""
+		"description": "Dill sauce (Koprova omacka) – is also used in traditional Czech cuisine."
 	},
 	{
 		"id": "c203",
-		"short_description": "",
 		"name": "Czech Liver Sausage",
 		"url": "http://catvusa.com/video/kitchen/23.jitrnice.mp4",
 		"pic_url": "http://catvusa.com/wp-content/uploads/2014/07/jitrnice-300x168.jpg",
-		"description": "The Czech Liver Sausage (Jitrnice) – the most famous Czech pork sausage",
-		"link": ""
+		"description": "The Czech Liver Sausage (Jitrnice) – the most famous Czech pork sausage"
 	},
 	{
 		"id": "c204",
-		"short_description": "",
 		"name": "Marinated Beef Sirloin with Cream Sauce",
 		"url": "http://catvusa.com/video/kitchen/20.svickova.mp4",
 		"pic_url": "http://catvusa.com/wp-content/uploads/2014/07/svickova-300x168.jpg",
-		"description": "Marinated Beef Sirloin with Cream (Svickova na smetane) - is a typical Czech dish and one of the most popular Czech meals",
-		"link": ""
+		"description": "Marinated Beef Sirloin with Cream (Svickova na smetane) - is a typical Czech dish and one of the most popular Czech meals"
 	},
 	{
 		"id": "c205",
-		"short_description": "",
 		"name": "Traditional Kolache",
 		"url": "http://catvusa.com/video/kitchen/05.kolace.mp4",
 		"pic_url": "http://catvusa.com/wp-content/uploads/2014/07/kolace-300x168.jpg",
-		"description": "Homemade  Kolache (Kolace) – this recipe is from some Bohemian and Moravian regions",
-		"link": ""
+		"description": "Homemade  Kolache (Kolace) – this recipe is from some Bohemian and Moravian regions"
 	},
 	{
 		"id": "c206",
-		"short_description": "",
 		"name": "Pork with Sauerkraut and Dumplings",
 		"url": "http://catvusa.com/video/kitchen/18.vepro-knedlo-zelo.mp4",
 		"pic_url": "http://catvusa.com/wp-content/uploads/2014/07/vepro_zelo_knedlo-300x168.jpg",
-		"description": "Pork with sauerkraut and dumplings (Vepro Zelo Knedlo) – is made differently across the Czech Republic.",
-		"link": ""
+		"description": "Pork with sauerkraut and dumplings (Vepro Zelo Knedlo) – is made differently across the Czech Republic."
 	}
     ]
 }
