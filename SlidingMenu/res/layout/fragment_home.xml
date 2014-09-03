@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp" >
+
+    <!-- Name Label -->
+
+    <TextView
+        android:id="@+id/name_label"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="25dip"
+        android:textStyle="bold" />
+
+   	<!-- Short_description Label -->
+
+    <TextView
+        android:id="@+id/short_description_label"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textStyle="bold" />
+
+    <ImageView
+  		    android:id="@+id/imageViewHome"
+  		    android:layout_width="wrap_content"
+  		    android:layout_height="wrap_content"
+  		    android:layout_marginTop="5dip"
+  		    android:src="@drawable/eastern__moravia" />
+    
+    <!-- Description Label -->
+
+    <Button
+        android:id="@+id/video_clickme"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@android:drawable/ic_media_play"
+        android:layout_gravity="center"
+        android:layout_margin="10dip"
+        android:text="Play Video" />
+
+    <TextView
+        android:id="@+id/description_label"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+
+    <!-- Pic_uri Label -->
+
+    <TextView
+        android:id="@+id/pic_uri_label"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:visibility="invisible" />
+    
+    <!-- URI Label -->
+
+    <TextView
+        android:id="@+id/uri_label"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:visibility="invisible" />
+    
+    <!-- ID Label -->
+
+    <TextView
+        android:id="@+id/id_label"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:visibility="invisible" />
+
+    <Button
+        android:id="@+id/link_clickme"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Open website" />
+
+</LinearLayout>

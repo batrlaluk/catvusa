@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp" >
+
+    <!-- Name label -->
+    <TextView
+        android:id="@+id/names"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="2dip"
+        android:paddingTop="6dip"
+        android:textStyle="bold" />
+    
+    <!-- URI label -->
+    <TextView
+        android:id="@+id/uris"
+        android:layout_width="fill_parent"
+        android:layout_height="0dip"
+        android:paddingBottom="2dip"
+        android:visibility="invisible" />
+    
+    <!-- Picture URI label -->
+    <TextView
+        android:id="@+id/pic_uris"
+        android:layout_width="fill_parent"
+        android:layout_height="0dip"
+        android:paddingBottom="2dip"
+        android:visibility="invisible" />
+    
+    <!-- Description label -->
+    <TextView
+        android:id="@+id/descriptions"
+        android:layout_width="fill_parent"
+        android:layout_height="0dip"
+        android:paddingBottom="2dip"
+        android:visibility="invisible" />
+
+</LinearLayout>
