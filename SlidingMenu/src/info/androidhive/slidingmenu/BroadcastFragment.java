@@ -27,7 +27,7 @@ public class BroadcastFragment extends ListFragment {
 	
 	public BroadcastFragment(){}
 	
-	private ProgressDialog pDialog;
+//	private ProgressDialog pDialog;
 
 	// URL to get contacts JSON
 	private static String url = "https://raw.githubusercontent.com/batrlaluk/catvusa/master/newJSON";
